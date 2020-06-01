@@ -17,7 +17,9 @@ public class Square {
 	}
 
 	public void CalculateArea() {
-		double area= side*side*side*side;
-		return area;
+		double area= side*4;
+		return;
 	}
+	public void CalculatorPerimetro(double side) {
+		
 }
